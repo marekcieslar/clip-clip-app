@@ -1,11 +1,11 @@
+## server name
+
+- netlify with lambda functions
+
 ## Database Schema
-
-### User
-
-- `name`: string
-- `hashed_password`: string
 
 ### Clipboard
 
+- `user`: string
 - `text`: string
 - `date_added`: datetime
